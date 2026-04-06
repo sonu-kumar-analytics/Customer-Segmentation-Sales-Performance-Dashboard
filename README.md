@@ -126,7 +126,17 @@ Segments:
 - Add RFM (Recency, Frequency, Monetary) segmentation  
 - Implement Machine Learning for customer prediction  
 - Deploy dashboard on cloud (Power BI Service / AWS)  
-- Automate data pipeline using Python  
+- Automate data pipeline using Python
+
+## 📂 Dataset
+Due to size limitations, dataset is hosted externally:
+
+🔗 Download Dataset: ## 📂 Dataset
+Due to size limitations, dataset is hosted externally:
+
+🔗 Download Dataset: [https://your-link-here](https://drive.google.com/file/d/1Kia0zu1XQQmnIaPzaU9a-7UGEal1Aq1v/view?usp=sharing)(cleaned dataset)
+
+🔗 Download Dataset: [https://drive.google.com/file/d/1809C7oXe65krq85AjsES1YA4cUjwyamJ/view?usp=sharing](https://drive.google.com/file/d/1809C7oXe65krq85AjsES1YA4cUjwyamJ/view?usp=sharing)(uncleaned dataset)
 
 ---
 
