@@ -144,11 +144,12 @@ Due to size limitations, dataset is hosted externally:
 
 ---
 
-Dashboard Preview
-![GitHub Stats](Dashboard2)
-
-
 This project demonstrates how data analytics can help businesses understand customers, improve retention, and drive revenue growth using actionable insights.
+
+---
+
+[![Dashboard Preview](Dashboard2.png)](https://link-to-your-live-dashboard.com)
+
 
 ---
 
